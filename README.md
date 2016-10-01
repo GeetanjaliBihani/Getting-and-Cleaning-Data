@@ -1,6 +1,12 @@
 # Getting-and-Cleaning-Data
 Project solution for getting and cleaning data project.
 
+##File summaries 
+###READ ME - Contains information about other files and the scope of this project.
+###aggregated_data.txt - Contains the final tidy data file.
+###Code_book.md - Contains information about various variables used in this project.
+###run_analysis.R - Contains the R code used to create the tidy data set.
+
 -The script begins with downloading the zipped files through the URL mentioned. 
 
 -The downloaded files are transferred to a local repository.
